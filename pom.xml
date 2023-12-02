@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.205.119.127:8081/repository/siva-rel/</url>
+	      <url>http://43.205.231.127:8081/repository/siva-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.119.127:8081/repository/siva-snapshot/</url>
+	      <url>http://43.205.231.127:8081/repository/siva-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
